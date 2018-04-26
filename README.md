@@ -36,6 +36,10 @@ On each turn:
 
 - <https://fontawesome.com/>
 
+### Animate CSS:
+
+- <https://daneden.github.io/animate.css/>
+
 
 ## Contributing
 
